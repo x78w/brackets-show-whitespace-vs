@@ -1,6 +1,6 @@
 # Show Whitespace
 
-> A [Brackets](http://brackets.io/) extension to visualize whitespace (both spaces and tabs) in the same style as [Sublime Text](http://www.sublimetext.com/).
+> A [Brackets](http://brackets.io/) extension to visualize whitespace (both spaces and tabs) in the same style as [Visual Studio](https://www.visualstudio.com/).
 
 ## Usage
 
