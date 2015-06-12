@@ -3,9 +3,10 @@
     "title": "Show Whitespace VS",
     "description": "Visualize whitespace (both spaces and tabs) in the same style as Visual Studio.",
     "homepage": "https://github.com/PatLillis/brackets-show-whitespace-vs",
-    "version": "1.2.2",
-    "author": "Dennis Kehrig <mailgithub@denniskehrig.de> (https://github.com/DennisKehrig)",
+    "version": "1.2.3",
+    "author": "Pat Lillis <lillipsm@gmail.com> (https://github.com/patlillis)"
     "contributors": [
+        "Dennis Kehrig <mailgithub@denniskehrig.de> (https://github.com/DennisKehrig)",
         "Lance Campbell <lkcampbell@gmail.com> (https://github.com/lkcampbell)"
     ],
     "license": "MIT",
